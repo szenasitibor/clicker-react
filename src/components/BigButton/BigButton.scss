@@ -1,0 +1,10 @@
+@import "../../style/variables.scss";
+
+.BigButton {
+  all: unset;
+  background-color: $white;
+  cursor: pointer;
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}

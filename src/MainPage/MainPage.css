@@ -1,0 +1,9 @@
+.MainPage {
+  display: flex;
+  justify-content: center;
+  margin-top: 200px; }
+  .MainPage .main-page-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; }

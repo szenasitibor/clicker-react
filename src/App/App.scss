@@ -1,0 +1,23 @@
+@import "../style/variables.scss";
+
+html {
+  height: 100%;
+  width: 100%;
+  background-color: $black;
+  color: $white;
+
+  body {
+    height: 100%;
+    width: 100%;
+
+    #root {
+      height: 100%;
+      width: 100%;
+
+      .App {
+        height: 100%;
+        width: 100%;
+      }
+    }
+  }
+}
